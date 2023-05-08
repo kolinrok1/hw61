@@ -16,6 +16,6 @@ public class SaveList extends Command {
     @Override
 
     public void execute() {
-        getConsole().addhuman();
+        getConsole().saveList();
     }
 }
